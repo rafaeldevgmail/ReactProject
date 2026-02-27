@@ -2,7 +2,13 @@
 
 Um painel de análise de dados em tempo real desenvolvido com **React** e **Supabase**, focado em visualização de metas vs. resultados de equipes.
 
+## 🖼️ Visualização do Projeto
 
+### Dashboard Principal
+![Screenshot do Dashboard](./assets/dashboard.png)
+
+### Modelo de Dados (Relacionamento)
+![Diagrama de Tabelas](./assets/relacionamento.png)
 
 ## 🚀 Tecnologias Utilizadas
 
