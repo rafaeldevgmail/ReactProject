@@ -1,35 +1,44 @@
-# 📊 Dashboard de Performance Operacional
+# 📊 Operational Performance Dashboard
 
-Um painel de análise de dados em tempo real desenvolvido com **React** e **Supabase**, focado em visualização de metas vs. resultados de equipes.
+A real-time data analysis dashboard developed with **React** and **Supabase**, focused on visualizing team goals versus results.
 
-## 🖼️ Visualização do Projeto
+## 🖼️ Project Visualization
 
-### Dashboard Principal
+### Main Dashboard
 
-![Screenshot do Dashboard](./assets/dashboard.jpg)
+![Screenshot of the Dashboard](./assets/dashboard.jpg)
 
-### Modelo de Dados (Relacionamento)
+### Data Model (Relationship)
 
-![Diagrama de Tabelas](./assets/relacionamento.jpg)
+![Table Diagram](./assets/relacionamento.jpg)
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
-- **React.js**: Biblioteca principal para a interface do usuário.
-- **Recharts**: Biblioteca de gráficos customizáveis para visualização de dados.
-- **Supabase**: Backend-as-a-Service (BaaS) para banco de dados PostgreSQL e autenticação.
-- **Lucide React**: Pacote de ícones modernos e leves.
-- **Tailwind CSS**: Estilização responsiva e design system.
+- **React.js**: Main library for the user interface.
 
-## 💡 Funcionalidades Principais
+- **Recharts**: Library of customizable charts for data visualization.
 
-- **Gráficos Dinâmicos**: Visualização de performance de vendas e atingimento de metas.
-- **Integração Real-time**: Consumo de dados diretamente do Supabase via queries relacionais.
-- **UI/UX Refinada**: Uso de paleta de cores estratégica (Slate para metas e Success para resultados) para melhor legibilidade.
-- **Segurança**: Implementação baseada em Row Level Security (RLS) do Supabase.
+- **Supabase**: Backend-as-a-Service (BaaS) for PostgreSQL database and authentication.
 
-## 🛠️ Como rodar o projeto localmente
+- **Lucide React**: Package of modern and lightweight icons.
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/rafaeldevgmail/workspace.git](https://github.com/rafaeldevgmail/workspace.git)
-   ```
+- **Tailwind CSS**: Responsive styling and design system.
+
+## 💡 Main Features
+
+- **Dynamic Charts**: Visualization of sales performance and goal achievement.
+
+- **Real-time Integration**: Consumption of data directly from Supabase via relational queries.
+
+- **Refined UI/UX**: Use of a strategic color palette (Slate for goals and Success for results) for better readability.
+
+- **Security**: Implementation based on Supabase's Row Level Security (RLS).
+
+## 🛠️ How to run the project locally
+
+1. Clone the repository:
+
+```bash
+
+git clone [https://github.com/rafaeldevgmail/workspace.git](https://github.com/rafaeldevgmail/workspace.git)
+```
