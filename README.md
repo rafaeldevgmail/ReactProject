@@ -2,6 +2,12 @@
 
 Um painel de análise de dados em tempo real desenvolvido com **React** e **Supabase**, focado em visualização de metas vs. resultados de equipes.
 
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Recharts](https://img.shields.io/badge/Charts-Recharts-ff7f50?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Lucide](https://img.shields.io/badge/Icons-Lucide-000000?style=flat-square)
+
 ## 🖼️ Visualização do Projeto
 
 ### Dashboard Principal
